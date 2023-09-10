@@ -1,3 +1,3 @@
 # jbceramics.github.io
 
-website in progress
+website in progress for Jai Balaji Cermaics

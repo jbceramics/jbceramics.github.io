@@ -1,7 +1,7 @@
 ---
 title: Jai Balaji Ceramics
 linktitle: Home
-description: we are available for your ceramics needs, wheter it is tiles, sanitary wares, or bathroom accessories/fittings. you can always rely on us.
+description:  We are available for your ceramics needs, whether it is tiles, sanitary wares, or bathroom accessories/fittings; You can always rely on us for good customer service and support.
 #lastmod: 2023-07-05
 featured_image: milli.jpg # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.

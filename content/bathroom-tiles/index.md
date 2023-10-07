@@ -1,6 +1,6 @@
 ---
 title: Bathroom Tiles
-description: Awesome bathroom tiles
+description: Awesome 12X18 WALL tiles
 featured_image: milli.jpg
 weight: 1
 

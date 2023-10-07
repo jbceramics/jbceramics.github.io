@@ -22,7 +22,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: pushd ./themes/gallery/ && npm install && popd && hugo --gc --minify
+        run: pushd ./themes/gallery/ && npm install --globally && popd && hugo --gc --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

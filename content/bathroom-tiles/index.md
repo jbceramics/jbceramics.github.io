@@ -1,6 +1,6 @@
 ---
 title: Bathroom Tiles
-description: 
+description: Awesome bathroom tiles
 featured_image: milli.jpg
 weight: 1
 

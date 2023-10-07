@@ -1,8 +1,8 @@
 baseURL = 'http://hdggxin.in/'
 languageCode = 'en-us'
-title = 'jbceramics'
+title = 'JBCeramics'
 theme = ["gallery"]
-copyright = "© Upendra Upadhyay"
+copyright = "© JBCeramics"
 disableKinds = ["taxonomy", "term"]
 defaultContentLanguage = "en"
 enableRobotsTXT = true
@@ -57,6 +57,6 @@ timeZone = "Asia/Kolkata"
 
 [menu]
 [[menu.footer]]
-  name = "GitHub"
-  url = "https://github.com/nicokaiser/hugo-theme-gallery/"
+  name = "Contact"
+  url = "/about"
   weight = 3

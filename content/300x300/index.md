@@ -1,6 +1,6 @@
 ---
-title: Main Title
-description: A Good Description
+title: Parking tiles 12x12
+description: Heavy duty parking tiles
 # featured_image: image.jpg
 weight: 1
 

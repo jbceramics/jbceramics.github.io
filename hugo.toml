@@ -9,8 +9,8 @@ enableRobotsTXT = true
 timeZone = "Asia/Kolkata"
 
 [params]
-  title = "My Gallery"
-  description = "Example site for hugo-theme-gallery"
+  title = "JBCeramics"
+  description = "We are available for your ceramics needs like Tiles, Sanitary Wares, Taps, Mirror, bathroom Accessories, Tiles Adhesive, kitchen sink, Wooden Tiles, Natural Stone, Designer Wash-Basin, Vanity Cabinet, Designer Mirror, Tiles Bidding, Borders, and much more... You can always rely on us for good customer service and support."
   defaultTheme = "dark"
 
 [author]

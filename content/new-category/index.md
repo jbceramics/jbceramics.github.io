@@ -1,5 +1,5 @@
 ---
-title: OUT SIDE WALL TILES 300*450
+title: Main Title
 description: A Good Description
 # featured_image: image.jpg
 weight: 1

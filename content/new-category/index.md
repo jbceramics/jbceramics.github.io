@@ -1,5 +1,5 @@
 ---
-title: Main Title
+title: SHOWROOM DISPLY 
 description: A Good Description
 # featured_image: image.jpg
 weight: 1
